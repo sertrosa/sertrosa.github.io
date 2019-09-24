@@ -79,65 +79,84 @@ var dict = {
     es: "hoy."
   },
   "Monday": {
-    fr: "Lundi"
+    fr: "Lundi",
+    es: "Lunes"
   },
   "Tuesday": {
-    fr: "Mardi"
+    fr: "Mardi",
+    es: "Martes"
   },
   "Wednesday": {
-    fr: "Mercredi"
+    fr: "Mercredi",
+    es: "Miércoles"
   },
   "Thursday": {
-    fr: "Jeudi"
+    fr: "Jeudi",
+    es: "Jueves"
   },
   "Friday": {
-    fr: "Vendredi"
+    fr: "Vendredi",
+    es: "Viernes"
   },
   "Saturday": {
-    fr: "Samedi"
+    fr: "Samedi",
+    es: "Sábado"
   },
   "Sunday": {
     fr: "Dimanche",
     es: "Domingo"
   },
   "January": {
-    fr: "Janvier"
+    fr: "Janvier",
+    es: "Enero"
   },
   "February": {
-    fr: "Février"
+    fr: "Février",
+    es: "Febrero"
   },
   "March": {
-    fr: "Mars"
+    fr: "Mars",
+    es: "Marzo"
   },
   "April": {
-    fr: "Avril"
+    fr: "Avril",
+    es: "Abril"
   },
   "May": {
-    fr: "Mai"
+    fr: "Mai",
+    es: "Mayo"
   },
   "June": {
-    fr: "Juin"
+    fr: "Juin",
+    es: "Junio"
   },
   "July": {
-    fr: "Juillet"
+    fr: "Juillet",
+    es: "Julio"
   },
   "August": {
-    fr: "Août"
+    fr: "Août",
+    es: "Agosto"
   },
   "September": {
-    fr: "Septembre"
+    fr: "Septembre",
+    es: "Septiembre"
   },
   "October": {
-    fr: "Octobre"
+    fr: "Octobre",
+    es: "Octubre"
   },
   "November": {
-    fr: "Novembre"
+    fr: "Novembre",
+    es: "Noviembre"
   },
   "December": {
-    fr: "Décembre"
+    fr: "Décembre",
+    es: "Diciembre"
   },
   "Language": {
-    fr: "Langue"
+    fr: "Langue",
+    es: "Lengua"
   },
   "Choose language": {
     fr: "Choix de la langue"
